@@ -3,3 +3,8 @@ body {
 	padding: 0;
 	font-family: 'Baloo Chettan 2', cursive;
 }
+li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 0 8px;
+}
