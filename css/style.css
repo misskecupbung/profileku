@@ -23,7 +23,6 @@ nav {
 	height: 60px;
 	padding: 0 16px; /* 16 px = 1 rem */
 	background-color: #001f2c;
-	color: red;
 	position: fixed;
 	}
 
@@ -62,7 +61,7 @@ section {
 #info p {
 	padding-right: 24px;
 	line-height: 25px;
-	color: #717171;
+	color: black;
 	font-size: 14px;
 	}
 	
